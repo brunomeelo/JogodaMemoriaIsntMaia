@@ -95,4 +95,8 @@ body{
     img{
         max-width: 11vh;
     }
+    #gameBoard{
+        max-width: 80vh;
+        gap: 10px;
+    }    
 }
