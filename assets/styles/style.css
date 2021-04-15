@@ -85,14 +85,3 @@ body{
     gap: 20px;    
 
 }
-
-@media screen and (max-width: 400px){
-    .card{
-        width: 9vh;
-        height: 9vh;
-        
-    }
-    img{
-        max-width: 11vh;
-    }
-}
